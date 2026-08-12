@@ -1,8 +1,8 @@
 ---
 title: "Power Series"
-description: "A connected bilingual calculus note about Power Series."
+description: "A connected bilingual learning note about Power Series."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Power Series
 
@@ -53,7 +53,7 @@ $$
 
 - [[微积分BC第14次正课-Ratio-Test与Taylor-Series]]
 - [[Taylor Series]]
-- Maclaurin Series
+- [[Maclaurin Series]]
 - [[Interval of Convergence]]
 - [[11 - Taylor Series]]
 - [[Taylor Polynomial]]

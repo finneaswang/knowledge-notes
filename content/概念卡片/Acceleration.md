@@ -1,8 +1,8 @@
 ---
 title: "Acceleration"
-description: "A connected bilingual calculus note about Acceleration."
+description: "A connected bilingual learning note about Acceleration."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Acceleration
 
@@ -44,4 +44,4 @@ negative acceleration 不必然是 slowing down；它只表示 velocity 正向�
 - [[Second Derivative]]
 - [[Higher-Order Derivatives]]
 - [[Instantaneous Rate of Change]]
-- Newton's Second Law
+- [[Newton's Second Law]]

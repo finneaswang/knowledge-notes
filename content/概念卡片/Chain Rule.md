@@ -1,8 +1,8 @@
 ---
 title: "Chain Rule"
-description: "A connected bilingual calculus note about Chain Rule."
+description: "A connected bilingual learning note about Chain Rule."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Chain Rule
 

@@ -1,8 +1,8 @@
 ---
 title: "Unit Circle"
-description: "A connected bilingual calculus note about Unit Circle."
+description: "A connected bilingual learning note about Unit Circle."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Unit Circle
 

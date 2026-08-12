@@ -1,8 +1,8 @@
 ---
 title: "Function Composition"
-description: "A connected bilingual calculus note about Function Composition."
+description: "A connected bilingual learning note about Function Composition."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Function Composition
 

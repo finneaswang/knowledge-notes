@@ -1,8 +1,8 @@
 ---
 title: "Secant Line"
-description: "A connected bilingual calculus note about Secant Line."
+description: "A connected bilingual learning note about Secant Line."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Secant Line
 
@@ -38,6 +38,6 @@ secant line 是两点，tangent line 是一点附近的极限。
 ## Connected Notes / 连接
 
 - [[02 - The Paradox of the Derivative]]
-- Average Rate of Change
+- [[Average Rate of Change]]
 - [[Tangent Line]]
 - [[Limits]]

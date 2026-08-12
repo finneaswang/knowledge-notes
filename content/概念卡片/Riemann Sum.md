@@ -1,8 +1,8 @@
 ---
 title: "Riemann Sum"
-description: "A connected bilingual calculus note about Riemann Sum."
+description: "A connected bilingual learning note about Riemann Sum."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Riemann Sum
 
@@ -56,7 +56,7 @@ Equal subintervals use $\Delta x=(b-a)/n$; unequal partitions use each interval'
 - [[08 - Integration and the Fundamental Theorem of Calculus]]
 - [[09 - What Does Area Have to Do With Slope]]
 - [[Average Value of a Function]]
-- Integrals
+- [[Integrals]]
 - [[Area Under a Curve]]
 - [[Limits]]
 - [[Fundamental Theorem of Calculus]]

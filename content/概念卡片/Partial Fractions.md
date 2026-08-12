@@ -1,8 +1,8 @@
 ---
 title: "Partial Fractions"
-description: "A connected bilingual calculus note about Partial Fractions."
+description: "A connected bilingual learning note about Partial Fractions."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Partial Fractions
 
@@ -49,7 +49,7 @@ check degree
 
 ## Connected Notes / 连接
 
-- Integrals
+- [[Integrals]]
 - [[Antiderivative]]
 - [[Integration by Parts]]
 - [[微积分BC第9次正课-积分方法与反常积分]]

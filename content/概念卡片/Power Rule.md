@@ -1,8 +1,8 @@
 ---
 title: "Power Rule"
-description: "A connected bilingual calculus note about Power Rule."
+description: "A connected bilingual learning note about Power Rule."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Power Rule
 
@@ -38,6 +38,7 @@ $$
   - `3. The Power Rule comes from the first-order terms in $(x+dx)^n$.`
 - [[03 - Derivative Formulas through Geometry#Knowledge Point 6: Why $\frac{d}{dx}\frac{1}{x}=-\frac{1}{x^2}$|03 - Derivative Formulas through Geometry · Knowledge Point 6: Why $\frac{d}{dx}\frac{1}{x}=-\frac{1}{x^2}$]]
   - `用 power rule 也能得到：`
+- [[AP电磁学第1次正课-电荷库仑定律与电场#Derivatives and Integrals / 微积分工具|AP电磁学第1次正课-电荷库仑定律与电场 · Derivatives and Integrals / 微积分工具]]
   - `这和 03 - Derivative Formulas through Geometry 直接相连：那篇解释了 Power Rule 和 Trigonometric Derivatives 的几何直觉，这里开始把它们作为物理工具使用。`
 - [[03 - Derivative Formulas through Geometry#4. Deep Phrases / 深句对应表|03 - Derivative Formulas through Geometry · 4. Deep Phrases / 深句对应表]]
   - `| the exponent hops down to the front | 这是 power rule 的计算口诀，不是原因。 |`

@@ -1,8 +1,8 @@
 ---
 title: "Absolute Extrema"
-description: "A connected bilingual calculus note about Absolute Extrema."
+description: "A connected bilingual learning note about Absolute Extrema."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Absolute Extrema
 

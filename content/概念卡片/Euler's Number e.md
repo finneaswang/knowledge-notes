@@ -1,8 +1,8 @@
 ---
 title: "Euler's Number e"
-description: "A connected bilingual calculus note about Euler's Number e."
+description: "A connected bilingual learning note about Euler's Number e."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Euler's Number e
 
@@ -60,4 +60,4 @@ For $e^x$, current size and instantaneous rate of change are numerically equal.
 - [[Derivatives]]
 - [[Tangent Line]]
 - [[Chain Rule]]
-- Maclaurin Series
+- [[Maclaurin Series]]

@@ -1,8 +1,8 @@
 ---
 title: "Sine Derivative"
-description: "A connected bilingual calculus note about Sine Derivative."
+description: "A connected bilingual learning note about Sine Derivative."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Sine Derivative
 

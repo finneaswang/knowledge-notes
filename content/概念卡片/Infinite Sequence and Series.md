@@ -1,8 +1,8 @@
 ---
 title: "Infinite Sequence and Series"
-description: "A connected bilingual calculus note about Infinite Sequence and Series."
+description: "A connected bilingual learning note about Infinite Sequence and Series."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Infinite Sequence and Series
 
@@ -36,6 +36,8 @@ $$
   - `- Unit 10 start: Infinite Sequence and Series convergence and divergence tests`
 - [[微积分BC第13次正课-无穷级数判敛#2. Class Flow / 课堂脉络|微积分BC第13次正课-无穷级数判敛 · 2. Class Flow / 课堂脉络]]
   - `4. 后半节进入 **Unit 10: Infinite Sequence and Series**。`
+- [[微积分BC第13次正课-无穷级数判敛#Reading Guide / 阅读说明|微积分BC第13次正课-无穷级数判敛 · Reading Guide / 阅读说明]]
+  - `这份笔记已经按完整版 transcript 补足。完整版和之前版本最大的区别是：前半节课先完成 Polar Coordinates / Polar Area 的 Chapter 9 收尾，后半节课才进入 Infinite Sequence and Series 的前 6 种 convergence tests。`
 
 ## Connected Notes / 连接
 

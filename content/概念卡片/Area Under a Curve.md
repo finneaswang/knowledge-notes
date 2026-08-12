@@ -1,8 +1,8 @@
 ---
 title: "Area Under a Curve"
-description: "A connected bilingual calculus note about Area Under a Curve."
+description: "A connected bilingual learning note about Area Under a Curve."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Area Under a Curve
 
@@ -45,7 +45,7 @@ $$
 - [[Average Value of a Function]]
 - [[Riemann Sum]]
 - [[Signed Area]]
-- Integrals
+- [[Integrals]]
 - [[Fundamental Theorem of Calculus]]
 - [[Polar Area]]
 - [[Definite Integral]]

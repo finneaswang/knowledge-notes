@@ -1,8 +1,8 @@
 ---
 title: "Inflection Points"
-description: "A connected bilingual calculus note about Inflection Points."
+description: "A connected bilingual learning note about Inflection Points."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Inflection Points
 

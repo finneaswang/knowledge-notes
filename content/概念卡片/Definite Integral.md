@@ -1,8 +1,8 @@
 ---
 title: "Definite Integral"
-description: "A connected bilingual calculus note about Definite Integral."
+description: "A connected bilingual learning note about Definite Integral."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Definite Integral
 
@@ -66,7 +66,7 @@ $$
 
 ## Connected Notes / 连接
 
-- Integrals
+- [[Integrals]]
 - [[Riemann Sum]]
 - [[Limits]]
 - [[Area Under a Curve]]

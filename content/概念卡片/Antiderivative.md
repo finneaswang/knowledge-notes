@@ -1,8 +1,8 @@
 ---
 title: "Antiderivative"
-description: "A connected bilingual calculus note about Antiderivative."
+description: "A connected bilingual learning note about Antiderivative."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Antiderivative
 
@@ -41,7 +41,7 @@ $$
 - [[09 - What Does Area Have to Do With Slope]]
 - [[Average Value of a Function]]
 - [[Derivatives]]
-- Integrals
+- [[Integrals]]
 - [[Fundamental Theorem of Calculus]]
 - [[Initial Conditions]]
 - [[Accumulation Function]]

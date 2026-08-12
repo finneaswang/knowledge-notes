@@ -1,8 +1,8 @@
 ---
 title: "Exponential Functions"
-description: "A connected bilingual calculus note about Exponential Functions."
+description: "A connected bilingual learning note about Exponential Functions."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Exponential Functions
 
@@ -50,6 +50,8 @@ Every exponential function has a derivative proportional to itself.
   - exponent addition becomes output multiplication
 - [[05 - What's So Special About Euler's Number e#Knowledge Point 3: Every Exponential Derivative Is Proportional to Itself|Chapter 5 · General Exponential Derivative]]
   - $(a^x)'=(\ln a)a^x$
+- [[AP电磁学第10次正课-等效电容与RC电路#Knowledge Point 15: Charging Approaches the Final State Exponentially|第10次正课 · exponential charging]]
+- [[AP电磁学第10次正课-等效电容与RC电路#Knowledge Point 23: Discharge Is Pure Exponential Decay|第10次正课 · exponential discharge]]
 
 ## Connected Notes / 连接
 
@@ -58,5 +60,7 @@ Every exponential function has a derivative proportional to itself.
 - [[Natural Logarithm]]
 - [[Exponential Growth]]
 - [[Derivatives]]
+- [[AP电磁学第10次正课-等效电容与RC电路]]
+- [[RC Circuits]]
 - [[Chain Rule]]
 - [[Taylor Series]]

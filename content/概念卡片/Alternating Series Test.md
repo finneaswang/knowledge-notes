@@ -1,8 +1,8 @@
 ---
 title: "Alternating Series Test"
-description: "A connected bilingual calculus note about Alternating Series Test."
+description: "A connected bilingual learning note about Alternating Series Test."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Alternating Series Test
 

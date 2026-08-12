@@ -1,8 +1,8 @@
 ---
 title: "Integration by Parts"
-description: "A connected bilingual calculus note about Integration by Parts."
+description: "A connected bilingual learning note about Integration by Parts."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Integration by Parts
 
@@ -56,6 +56,6 @@ identify product
 ## Connected Notes / 连接
 
 - [[Antiderivative]]
-- Integrals
+- [[Integrals]]
 - [[U-Substitution]]
 - [[微积分BC第9次正课-积分方法与反常积分]]

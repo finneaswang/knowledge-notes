@@ -1,8 +1,8 @@
 ---
 title: "Radius of Convergence"
-description: "A connected bilingual calculus note about Radius of Convergence."
+description: "A connected bilingual learning note about Radius of Convergence."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Radius of Convergence
 

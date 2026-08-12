@@ -1,8 +1,8 @@
 ---
 title: "Taylor Series"
-description: "A connected bilingual calculus note about Taylor Series."
+description: "A connected bilingual learning note about Taylor Series."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Taylor Series
 
@@ -56,7 +56,7 @@ Taylor polynomial 是有限项近似；Taylor series 是无限项表达，还要
 ## Connected Notes / 连接
 
 - [[微积分BC第14次正课-Ratio-Test与Taylor-Series]]
-- Maclaurin Series
+- [[Maclaurin Series]]
 - [[Power Series]]
 - [[Lagrange Error Bound]]
 - [[03 - Derivative Formulas through Geometry]]

@@ -1,8 +1,8 @@
 ---
 title: "Differential Equations"
-description: "A connected bilingual calculus note about Differential Equations."
+description: "A connected bilingual learning note about Differential Equations."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Differential Equations
 
@@ -34,8 +34,15 @@ $$
 
 - [[Derivatives]] supply rates of change.
 - [[Initial Conditions]] select one member of a solution family.
-- Phase Space represents all possible states geometrically.
+- [[Phase Space]] represents all possible states geometrically.
 - [[Vector Field]] encodes the change law at every state.
 - [[Euler Method]] approximates trajectories numerically.
+- [[AP电磁学第10次正课-等效电容与RC电路#Knowledge Point 14: Kirchhoff's Loop Rule Produces the Differential Equation|RC charging turns a loop law into a first-order differential equation.]]
+- [[RC Circuits]]
+- [[AP电磁学第13次正课-动生电动势磁通量与法拉第定律#Knowledge Point 17: Without External Force, Speed Decays|Electromagnetic damping produces a first-order velocity equation.]]
+- [[Electromagnetic Damping]]
 
 ## Search and Source Mentions
+
+- [[01 - Differential Equations, a Tourist's Guide#Knowledge Point 7: An Analytic Formula Is Not the Only Form of Understanding]]
+- [[AP电磁学第10次正课-等效电容与RC电路]]

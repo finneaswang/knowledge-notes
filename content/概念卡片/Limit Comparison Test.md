@@ -1,8 +1,8 @@
 ---
 title: "Limit Comparison Test"
-description: "A connected bilingual calculus note about Limit Comparison Test."
+description: "A connected bilingual learning note about Limit Comparison Test."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Limit Comparison Test
 

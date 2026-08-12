@@ -1,8 +1,8 @@
 ---
 title: "Cross-Sectional Volume"
-description: "A connected bilingual calculus note about Cross-Sectional Volume."
+description: "A connected bilingual learning note about Cross-Sectional Volume."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Cross-Sectional Volume
 

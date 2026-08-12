@@ -1,8 +1,8 @@
 ---
 title: "Accumulation Function"
-description: "A connected bilingual calculus note about Accumulation Function."
+description: "A connected bilingual learning note about Accumulation Function."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Accumulation Function
 

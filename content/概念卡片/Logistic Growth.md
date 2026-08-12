@@ -1,8 +1,8 @@
 ---
 title: "Logistic Growth"
-description: "A connected bilingual calculus note about Logistic Growth."
+description: "A connected bilingual learning note about Logistic Growth."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Logistic Growth
 

@@ -1,8 +1,8 @@
 ---
 title: "Solids of Revolution"
-description: "A connected bilingual calculus note about Solids of Revolution."
+description: "A connected bilingual learning note about Solids of Revolution."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Solids of Revolution
 
@@ -25,4 +25,4 @@ Radius is distance to the axis of rotation. For a shifted axis, subtract coordin
 - [[微积分BC第12次正课-旋转体弧长参数向量与极坐标]]
 - [[Cross-Sectional Volume]]
 - [[Area Between Curves]]
-- Integrals
+- [[Integrals]]

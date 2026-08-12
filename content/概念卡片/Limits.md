@@ -1,8 +1,8 @@
 ---
 title: "Limits"
-description: "A connected bilingual calculus note about Limits."
+description: "A connected bilingual learning note about Limits."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Limits
 
@@ -71,5 +71,5 @@ $$
 - [[Indeterminate Form]]
 - [[L'Hôpital's Rule]]
 - [[Derivatives]]
-- Average Rate of Change
+- [[Average Rate of Change]]
 - [[微积分BC第13次正课-无穷级数判敛]]

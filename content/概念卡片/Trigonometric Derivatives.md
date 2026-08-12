@@ -1,8 +1,8 @@
 ---
 title: "Trigonometric Derivatives"
-description: "A connected bilingual calculus note about Trigonometric Derivatives."
+description: "A connected bilingual learning note about Trigonometric Derivatives."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Trigonometric Derivatives
 
@@ -31,6 +31,7 @@ $$
 
 ### Mentioned In / 出现位置
 
+- [[AP电磁学第1次正课-电荷库仑定律与电场#Derivatives and Integrals / 微积分工具|AP电磁学第1次正课-电荷库仑定律与电场 · Derivatives and Integrals / 微积分工具]]
   - `这和 03 - Derivative Formulas through Geometry 直接相连：那篇解释了 Power Rule 和 Trigonometric Derivatives 的几何直觉，这里开始把它们作为物理工具使用。`
 
 ## Connected Notes / 连接

@@ -1,8 +1,8 @@
 ---
 title: "Indeterminate Form"
-description: "A connected bilingual calculus note about Indeterminate Form."
+description: "A connected bilingual learning note about Indeterminate Form."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Indeterminate Form
 

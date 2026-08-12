@@ -1,8 +1,8 @@
 ---
 title: "Vector Field"
-description: "A connected bilingual calculus note about Vector Field."
+description: "A connected bilingual learning note about Vector Field."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Vector Field
 
@@ -28,11 +28,13 @@ vector field 不只是大小图，还包含方向。
 
 ### Mentioned In / 出现位置
 
+- [[01 - Differential Equations, a Tourist's Guide#Knowledge Point 9: A Vector Field Encodes the Differential Equation Everywhere|Differential Equations 01 · State-Space Vector Field]]
+- [[AP电磁学第1次正课-电荷库仑定律与电场#Supplement 10: Field Lines Are a Compressed Field Map / 电场线是矢量场图的压缩版|AP电磁学第1次正课-电荷库仑定律与电场 · Supplement 10: Field Lines Are a Compressed Field Map / 电场线是矢量场图的压缩版]]
   - `教案把 Electric Field Lines 和 vector field map 联系起来。`
 
 ## Connected Notes / 连接
 
-- Electric Field
+- [[Electric Field]]
 - [[Vectors]]
 - [[Differential Equations]]
-- Phase Space
+- [[Phase Space]]

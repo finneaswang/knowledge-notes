@@ -1,8 +1,8 @@
 ---
 title: "Geometric Series"
-description: "A connected bilingual calculus note about Geometric Series."
+description: "A connected bilingual learning note about Geometric Series."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Geometric Series
 

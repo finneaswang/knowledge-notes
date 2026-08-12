@@ -1,8 +1,8 @@
 ---
 title: "Inverse Function Derivatives"
-description: "A connected bilingual calculus note about Inverse Function Derivatives."
+description: "A connected bilingual learning note about Inverse Function Derivatives."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Inverse Function Derivatives
 

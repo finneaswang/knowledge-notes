@@ -1,8 +1,8 @@
 ---
 title: "Initial Conditions"
-description: "A connected bilingual calculus note about Initial Conditions."
+description: "A connected bilingual learning note about Initial Conditions."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Initial Conditions
 
@@ -25,10 +25,12 @@ initial condition 不是附加在模型末尾的“小数据”，而是 state-s
 ## Connections
 
 - [[Differential Equations]] define the allowed motion.
-- Phase Space contains every possible initial state.
+- [[Phase Space]] contains every possible initial state.
 - [[Euler Method]] begins from one initial state and steps forward.
 - Chaos can make tiny initial-condition errors grow into very different trajectories.
 - In indefinite integration, $f'(x)$ determines an antiderivative family $f(x)=F(x)+C$, while one value such as $f(x_0)=y_0$ determines $C$: [[微积分BC第8次正课-反导FTC变上限积分与换元#10. Initial Condition Selects One Function / 初始条件选出具体函数|第8课 · Initial condition and C]].
 - [[Antiderivative]]
 
 ## Search and Source Mentions
+
+- [[01 - Differential Equations, a Tourist's Guide#Knowledge Point 14: Solvability and Predictability Are Different Limits]]

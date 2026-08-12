@@ -1,8 +1,8 @@
 ---
 title: "Lagrange Error Bound"
-description: "A connected bilingual calculus note about Lagrange Error Bound."
+description: "A connected bilingual learning note about Lagrange Error Bound."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Lagrange Error Bound
 
@@ -45,4 +45,4 @@ $M$ 要控制的是下一阶导数在区间上的最大值。
 
 - [[微积分BC第14次正课-Ratio-Test与Taylor-Series]]
 - [[Taylor Series]]
-- Maclaurin Series
+- [[Maclaurin Series]]

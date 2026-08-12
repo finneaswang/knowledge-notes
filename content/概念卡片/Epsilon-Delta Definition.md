@@ -1,8 +1,8 @@
 ---
 title: "Epsilon-Delta Definition"
-description: "A connected bilingual calculus note about Epsilon-Delta Definition."
+description: "A connected bilingual learning note about Epsilon-Delta Definition."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Epsilon-Delta Definition
 

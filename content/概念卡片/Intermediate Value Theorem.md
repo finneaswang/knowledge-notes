@@ -1,8 +1,8 @@
 ---
 title: "Intermediate Value Theorem"
-description: "A connected bilingual calculus note about Intermediate Value Theorem."
+description: "A connected bilingual learning note about Intermediate Value Theorem."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Intermediate Value Theorem
 

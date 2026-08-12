@@ -1,8 +1,8 @@
 ---
 title: "Second Derivative"
-description: "A connected bilingual calculus note about Second Derivative."
+description: "A connected bilingual learning note about Second Derivative."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Second Derivative
 

@@ -1,8 +1,8 @@
 ---
 title: "Comparison Test"
-description: "A connected bilingual calculus note about Comparison Test."
+description: "A connected bilingual learning note about Comparison Test."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Comparison Test
 

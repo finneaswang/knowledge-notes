@@ -1,8 +1,8 @@
 ---
 title: "Fundamental Theorem of Calculus"
-description: "A connected bilingual calculus note about Fundamental Theorem of Calculus."
+description: "A connected bilingual learning note about Fundamental Theorem of Calculus."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Fundamental Theorem of Calculus
 
@@ -68,7 +68,7 @@ Part 1 differentiates accumulation; Part 2 computes accumulation from antideriva
 - [[Riemann Sum]]
 - [[Antiderivative]]
 - [[Signed Area]]
-- Integrals
+- [[Integrals]]
 - [[Derivatives]]
 - [[Area Under a Curve]]
 - [[Definite Integral]]

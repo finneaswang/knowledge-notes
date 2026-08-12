@@ -1,8 +1,8 @@
 ---
 title: "Slope Fields"
-description: "A connected bilingual calculus note about Slope Fields."
+description: "A connected bilingual learning note about Slope Fields."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Slope Fields
 

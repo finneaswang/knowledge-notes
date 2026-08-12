@@ -1,8 +1,8 @@
 ---
 title: "Tangent Line"
-description: "A connected bilingual calculus note about Tangent Line."
+description: "A connected bilingual learning note about Tangent Line."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Tangent Line
 
@@ -64,5 +64,5 @@ $$
 - [[Implicit Curve]]
 - [[Implicit Differentiation]]
 - [[Derivatives]]
-- Average Rate of Change
+- [[Average Rate of Change]]
 - [[Secant Line]]

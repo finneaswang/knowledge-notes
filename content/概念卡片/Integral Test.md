@@ -1,8 +1,8 @@
 ---
 title: "Integral Test"
-description: "A connected bilingual calculus note about Integral Test."
+description: "A connected bilingual learning note about Integral Test."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Integral Test
 
@@ -52,7 +52,7 @@ have the same convergence behavior when $a_n=f(n)$ and the conditions hold.
 ## Connected Notes / 连接
 
 - [[微积分BC第13次正课-无穷级数判敛]]
-- Integrals
+- [[Integrals]]
 - [[p-Series]]
 - [[Area Under a Curve]]
 - [[Improper Integral]]

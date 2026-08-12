@@ -1,8 +1,8 @@
 ---
 title: "Derivatives"
-description: "A connected bilingual calculus note about Derivatives."
+description: "A connected bilingual learning note about Derivatives."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Derivatives
 
@@ -58,6 +58,7 @@ $$
   - every exponential derivative is a base-dependent constant times the original function
 - [[04 - Visualizing the Chain Rule and Product Rule#15. Knowledge Graph Connections / 知识图谱连接|Chapter 4 · Knowledge Graph Connections]]
   - derivative rules describe how first-order changes combine and pass through function structure
+- [[AP电磁学第1次正课-电荷库仑定律与电场#Derivatives and Integrals / 微积分工具|AP电磁学第1次正课-电荷库仑定律与电场 · Derivatives and Integrals / 微积分工具]]
   - `Derivatives and Integrals / 微积分工具`
 - [[03 - Derivative Formulas through Geometry#Knowledge Point 2: Tiny Nudge Is the Real Meaning of $dx$|03 - Derivative Formulas through Geometry · Knowledge Point 2: Tiny Nudge Is the Real Meaning of $dx$]]
   - `- Chapter 2 的精确语言是：Derivatives come from a Limits process.`
@@ -71,6 +72,7 @@ $$
   - `Chapter 1: why integrals and derivatives are connected`
 - [[03 - Derivative Formulas through Geometry#4. Deep Phrases / 深句对应表|03 - Derivative Formulas through Geometry · 4. Deep Phrases / 深句对应表]]
   - `| tiny nudges are the heart of derivatives | 导数就是输入被轻推 $dx$ 后，输出如何响应 $df$。 |`
+- [[AP电磁学第1次正课-电荷库仑定律与电场#2. Class Flow / 课堂脉络|AP电磁学第1次正课-电荷库仑定律与电场 · 2. Class Flow / 课堂脉络]]
   - `1. 课前工具：Vectors、derivatives/integrals、kinematics、Newton's Second Law、energy and momentum。`
 
 ## Connected Notes / 连接
@@ -82,6 +84,9 @@ $$
 - [[微积分BC第4次正课-反函数高阶导数与运动应用]]
 - [[微积分BC第3次正课-可导性链式法则与隐函数求导]]
 - [[微积分BC第2次正课-极限应用与导数入门]]
+- [[AP电磁学第10次正课-等效电容与RC电路#Knowledge Point 16: Current Is the Time Derivative of Charge|第10次正课 · current as $dq/dt$]]
+- [[RC Circuits]]
+- [[01 - Differential Equations, a Tourist's Guide]]
 - [[Differential Equations]]
 - [[12 - The Other Way to Visualize Derivatives]]
 - [[Transformational View of Derivatives]]

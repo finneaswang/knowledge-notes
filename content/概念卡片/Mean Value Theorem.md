@@ -1,8 +1,8 @@
 ---
 title: "Mean Value Theorem"
-description: "A connected bilingual calculus note about Mean Value Theorem."
+description: "A connected bilingual learning note about Mean Value Theorem."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Mean Value Theorem
 
@@ -49,7 +49,7 @@ $$
 - [[Extreme Value Theorem]]
 - [[微积分BC第5次正课-相关变化率线性近似与中值定理]]
 - [[Derivatives]]
-- Average Rate of Change
+- [[Average Rate of Change]]
 - [[Secant Line]]
 - [[Tangent Line]]
 - [[Intermediate Value Theorem]]

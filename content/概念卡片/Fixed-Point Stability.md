@@ -1,8 +1,8 @@
 ---
 title: "Fixed-Point Stability"
-description: "A connected bilingual calculus note about Fixed-Point Stability."
+description: "A connected bilingual learning note about Fixed-Point Stability."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Fixed-Point Stability
 
@@ -38,6 +38,7 @@ $$
 
 ### Mentioned In / 出现位置
 
+- [[01 - Differential Equations, a Tourist's Guide#Knowledge Point 11: Fixed Points and Stability Describe Whole Families of Initial States|Differential Equations 01 · Continuous-Time Stability]]
   - phase flow asks whether nearby states contract toward or expand away from an equilibrium
 - [[12 - The Other Way to Visualize Derivatives#Knowledge Point 9: A Stable Fixed Point Locally Contracts Nearby Errors|Chapter 12 · Stable Fixed Point]]
   - local linearization turns derivative magnitude into an error-contraction factor
@@ -54,4 +55,5 @@ $$
 - [[Limits]]
 - [[Function Composition]]
 - [[Higher-Order Derivatives]]
-- Phase Space
+- [[Phase Space]]
+- [[01 - Differential Equations, a Tourist's Guide]]

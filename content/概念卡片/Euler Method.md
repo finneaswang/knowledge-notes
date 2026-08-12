@@ -1,8 +1,8 @@
 ---
 title: "Euler Method"
-description: "A connected bilingual calculus note about Euler Method."
+description: "A connected bilingual learning note about Euler Method."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Euler Method
 
@@ -31,4 +31,5 @@ $$
 
 ## Search and Source Mentions
 
+- [[01 - Differential Equations, a Tourist's Guide#7. Formula Map / 公式地图]]
 - [[微积分BC第10次正课-累积函数与微分方程#Part D - Euler's Method|微积分BC第10次正课 · Euler's Method]]

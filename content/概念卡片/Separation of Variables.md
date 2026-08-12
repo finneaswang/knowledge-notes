@@ -1,8 +1,8 @@
 ---
 title: "Separation of Variables"
-description: "A connected bilingual calculus note about Separation of Variables."
+description: "A connected bilingual learning note about Separation of Variables."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Separation of Variables
 
@@ -29,4 +29,4 @@ Separate $x,y$ -> integrate both sides -> use the initial condition -> solve for
 - [[微积分BC第10次正课-累积函数与微分方程]]
 - [[Differential Equations]]
 - [[Initial Conditions]]
-- Integrals
+- [[Integrals]]

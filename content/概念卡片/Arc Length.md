@@ -1,8 +1,8 @@
 ---
 title: "Arc Length"
-description: "A connected bilingual calculus note about Arc Length."
+description: "A connected bilingual learning note about Arc Length."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Arc Length
 

@@ -1,4 +1,4 @@
-name: Deploy calculus notes to GitHub Pages
+name: Deploy knowledge notes to GitHub Pages
 
 on:
   push:

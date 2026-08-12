@@ -1,8 +1,8 @@
 ---
 title: "Implicit Curve"
-description: "A connected bilingual calculus note about Implicit Curve."
+description: "A connected bilingual learning note about Implicit Curve."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Implicit Curve
 

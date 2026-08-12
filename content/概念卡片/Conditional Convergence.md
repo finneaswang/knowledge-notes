@@ -1,8 +1,8 @@
 ---
 title: "Conditional Convergence"
-description: "A connected bilingual calculus note about Conditional Convergence."
+description: "A connected bilingual learning note about Conditional Convergence."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Conditional Convergence
 

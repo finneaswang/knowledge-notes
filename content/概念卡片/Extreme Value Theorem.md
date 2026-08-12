@@ -1,8 +1,8 @@
 ---
 title: "Extreme Value Theorem"
-description: "A connected bilingual calculus note about Extreme Value Theorem."
+description: "A connected bilingual learning note about Extreme Value Theorem."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Extreme Value Theorem
 

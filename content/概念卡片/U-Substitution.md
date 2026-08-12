@@ -1,8 +1,8 @@
 ---
 title: "U-Substitution"
-description: "A connected bilingual calculus note about U-Substitution."
+description: "A connected bilingual learning note about U-Substitution."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # U-Substitution
 
@@ -60,7 +60,7 @@ choose repeated inner expression u
 
 - [[Chain Rule]]
 - [[Antiderivative]]
-- Integrals
+- [[Integrals]]
 - [[Fundamental Theorem of Calculus]]
 - [[微积分BC第8次正课-反导FTC变上限积分与换元]]
 - [[Improper Integral]]

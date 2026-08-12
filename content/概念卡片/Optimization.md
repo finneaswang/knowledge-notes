@@ -1,8 +1,8 @@
 ---
 title: "Optimization"
-description: "A connected bilingual calculus note about Optimization."
+description: "A connected bilingual learning note about Optimization."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Optimization
 

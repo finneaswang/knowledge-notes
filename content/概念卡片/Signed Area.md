@@ -1,8 +1,8 @@
 ---
 title: "Signed Area"
-description: "A connected bilingual calculus note about Signed Area."
+description: "A connected bilingual learning note about Signed Area."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Signed Area
 
@@ -40,7 +40,7 @@ $$
 - [[08 - Integration and the Fundamental Theorem of Calculus]]
 - [[09 - What Does Area Have to Do With Slope]]
 - [[Average Value of a Function]]
-- Integrals
+- [[Integrals]]
 - [[Area Under a Curve]]
 - [[Fundamental Theorem of Calculus]]
 - [[Definite Integral]]

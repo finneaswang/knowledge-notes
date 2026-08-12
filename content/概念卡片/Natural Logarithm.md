@@ -1,8 +1,8 @@
 ---
 title: "Natural Logarithm"
-description: "A connected bilingual calculus note about Natural Logarithm."
+description: "A connected bilingual learning note about Natural Logarithm."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Natural Logarithm
 

@@ -1,8 +1,8 @@
 ---
 title: "Taylor Polynomial"
-description: "A connected bilingual calculus note about Taylor Polynomial."
+description: "A connected bilingual learning note about Taylor Polynomial."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Taylor Polynomial
 
@@ -45,7 +45,7 @@ Taylor polynomial 是 finite approximation，不是 infinite Taylor series；离
 
 - [[11 - Taylor Series]]
 - [[Taylor Series]]
-- Maclaurin Series
+- [[Maclaurin Series]]
 - [[Higher-Order Derivatives]]
 - [[Lagrange Error Bound]]
 - [[微积分BC第14次正课-Ratio-Test与Taylor-Series]]

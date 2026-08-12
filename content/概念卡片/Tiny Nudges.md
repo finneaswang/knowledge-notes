@@ -1,8 +1,8 @@
 ---
 title: "Tiny Nudges"
-description: "A connected bilingual calculus note about Tiny Nudges."
+description: "A connected bilingual learning note about Tiny Nudges."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Tiny Nudges
 
@@ -56,4 +56,4 @@ all represent tiny pieces or tiny changes in different contexts.
 - [[Product Rule]]
 - [[Chain Rule]]
 - [[Derivatives]]
-- Continuous Charge Distribution
+- [[Continuous Charge Distribution]]

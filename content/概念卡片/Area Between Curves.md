@@ -1,8 +1,8 @@
 ---
 title: "Area Between Curves"
-description: "A connected bilingual calculus note about Area Between Curves."
+description: "A connected bilingual learning note about Area Between Curves."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Area Between Curves
 

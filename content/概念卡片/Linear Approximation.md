@@ -1,8 +1,8 @@
 ---
 title: "Linear Approximation"
-description: "A connected bilingual calculus note about Linear Approximation."
+description: "A connected bilingual learning note about Linear Approximation."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Linear Approximation
 

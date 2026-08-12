@@ -1,8 +1,8 @@
 ---
 title: "Alternating Series Error Bound"
-description: "A connected bilingual calculus note about Alternating Series Error Bound."
+description: "A connected bilingual learning note about Alternating Series Error Bound."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Alternating Series Error Bound
 

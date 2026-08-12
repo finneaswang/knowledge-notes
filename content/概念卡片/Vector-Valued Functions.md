@@ -1,8 +1,8 @@
 ---
 title: "Vector-Valued Functions"
-description: "A connected bilingual calculus note about Vector-Valued Functions."
+description: "A connected bilingual learning note about Vector-Valued Functions."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Vector-Valued Functions
 

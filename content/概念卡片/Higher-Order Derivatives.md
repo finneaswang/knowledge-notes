@@ -1,8 +1,8 @@
 ---
 title: "Higher-Order Derivatives"
-description: "A connected bilingual calculus note about Higher-Order Derivatives."
+description: "A connected bilingual learning note about Higher-Order Derivatives."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Higher-Order Derivatives
 
@@ -42,6 +42,7 @@ $f^{(n)}$ 表示第 $n$ 阶导数，不是 $f$ 的 $n$ 次幂。
 
 - [[微积分BC第4次正课-反函数高阶导数与运动应用#7. Higher-Order Derivatives / 高阶导数|微积分BC第4次正课 · Higher-Order Derivatives]]
   - repeated differentiation extends ordinary and implicit derivative calculations
+- [[01 - Differential Equations, a Tourist's Guide#Knowledge Point 4: The Unknown Function Can Control Its Own Derivatives|Differential Equations 01 · Derivatives Defined by State]]
 - [[10 - Higher Order Derivatives#Knowledge Point 1: Higher-Order Derivatives Repeat the Same Question|Chapter 10 · Repeated Derivative Operation]]
 - [[10 - Higher Order Derivatives#Knowledge Point 10: Higher Derivatives Store Local Shape Information|Chapter 10 · Function Approximation]]
 
@@ -55,3 +56,4 @@ $f^{(n)}$ 表示第 $n$ 阶导数，不是 $f$ 的 $n$ 次幂。
 - [[Taylor Series]]
 - [[Acceleration]]
 - [[Differential Equations]]
+- [[01 - Differential Equations, a Tourist's Guide]]

@@ -1,8 +1,8 @@
 ---
 title: "calculus"
-description: "A connected bilingual calculus note about calculus."
+description: "A connected bilingual learning note about calculus."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # calculus
 
@@ -28,6 +28,7 @@ Course/language hub card.
 
 ### Mentioned In / 出现位置
 
+- [[AP电磁学第2次正课-连续带电体电场与电通量#Why We Need Calculus|AP电磁学第2次正课-连续带电体电场与电通量 · Why We Need Calculus]]
   - `Why We Need Calculus`
 - [[01 - The Essence of Calculus#1. Calculus is about turning hard problems into sums of tiny pieces.|01 - The Essence of Calculus · 1. Calculus is about turning hard problems into sums of tiny pieces.]]
   - `1. Calculus is about turning hard problems into sums of tiny pieces.`
@@ -47,6 +48,6 @@ Course/language hub card.
 ## Connected Notes / 连接
 
 - [[Derivatives]]
-- Integrals
+- [[Integrals]]
 - [[Limits]]
 - [[Infinite Sequence and Series]]

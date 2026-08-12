@@ -1,8 +1,8 @@
 ---
 title: "Interval of Convergence"
-description: "A connected bilingual calculus note about Interval of Convergence."
+description: "A connected bilingual learning note about Interval of Convergence."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Interval of Convergence
 

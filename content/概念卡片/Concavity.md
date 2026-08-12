@@ -1,8 +1,8 @@
 ---
 title: "Concavity"
-description: "A connected bilingual calculus note about Concavity."
+description: "A connected bilingual learning note about Concavity."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Concavity
 

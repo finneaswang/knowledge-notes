@@ -1,8 +1,8 @@
 ---
 title: "Transformational View of Derivatives"
-description: "A connected bilingual calculus note about Transformational View of Derivatives."
+description: "A connected bilingual learning note about Transformational View of Derivatives."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Transformational View of Derivatives
 

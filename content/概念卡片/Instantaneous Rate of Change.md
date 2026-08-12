@@ -1,8 +1,8 @@
 ---
 title: "Instantaneous Rate of Change"
-description: "A connected bilingual calculus note about Instantaneous Rate of Change."
+description: "A connected bilingual learning note about Instantaneous Rate of Change."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Instantaneous Rate of Change
 
@@ -51,5 +51,5 @@ $$
 
 - [[02 - The Paradox of the Derivative]]
 - [[Derivatives]]
-- Average Rate of Change
+- [[Average Rate of Change]]
 - [[Tangent Line]]

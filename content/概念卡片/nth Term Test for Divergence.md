@@ -1,8 +1,8 @@
 ---
 title: "nth Term Test for Divergence"
-description: "A connected bilingual calculus note about nth Term Test for Divergence."
+description: "A connected bilingual learning note about nth Term Test for Divergence."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # nth Term Test for Divergence
 

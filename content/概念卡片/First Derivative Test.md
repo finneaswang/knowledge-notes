@@ -1,8 +1,8 @@
 ---
 title: "First Derivative Test"
-description: "A connected bilingual calculus note about First Derivative Test."
+description: "A connected bilingual learning note about First Derivative Test."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # First Derivative Test
 

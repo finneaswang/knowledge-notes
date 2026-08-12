@@ -1,8 +1,8 @@
 ---
 title: "Derivative Formulas"
-description: "A connected bilingual calculus note about Derivative Formulas."
+description: "A connected bilingual learning note about Derivative Formulas."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Derivative Formulas
 
@@ -36,6 +36,7 @@ Examples: Power Rule, trig derivatives, chain rule.
   - `Knowledge Point 1: Derivative Formulas Should Not Feel Like a List of Rules`
 - [[03 - Derivative Formulas through Geometry#3Blue1Brown - The Essence of Calculus 03 - Derivative Formulas through Geometry|03 - Derivative Formulas through Geometry · 3Blue1Brown - The Essence of Calculus 03 - Derivative Formulas through Geometry]]
   - `3Blue1Brown - The Essence of Calculus 03 - Derivative Formulas through Geometry`
+- [[AP电磁学第1次正课-电荷库仑定律与电场#Derivatives and Integrals / 微积分工具|AP电磁学第1次正课-电荷库仑定律与电场 · Derivatives and Integrals / 微积分工具]]
   - `这和 03 - Derivative Formulas through Geometry 直接相连：那篇解释了 Power Rule 和 Trigonometric Derivatives 的几何直觉，这里开始把它们作为物理工具使用。`
 - [[03 - Derivative Formulas through Geometry#1. What This Episode Is About / 这一集在讲什么|03 - Derivative Formulas through Geometry · 1. What This Episode Is About / 这一集在讲什么]]
   - `If I know what a derivative means, how do I actually compute derivative formulas?`
@@ -43,6 +44,7 @@ Examples: Power Rule, trig derivatives, chain rule.
   - `这一集把 derivative formulas 从“背公式”改造成“看微小变化”：`
 - [[03 - Derivative Formulas through Geometry#2. Class Flow / 视频脉络|03 - Derivative Formulas through Geometry · 2. Class Flow / 视频脉络]]
   - `1. 先说明为什么要会算 derivative formulas：现实问题常常用 polynomials, trig functions, exponentials 建模。`
+- [[AP电磁学第1次正课-电荷库仑定律与电场#Reading Guide / 阅读说明|AP电磁学第1次正课-电荷库仑定律与电场 · Reading Guide / 阅读说明]]
   - `- 03 - Derivative Formulas through Geometry`
 
 ## Connected Notes / 连接

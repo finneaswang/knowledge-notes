@@ -1,8 +1,8 @@
 ---
 title: "Product Rule"
-description: "A connected bilingual calculus note about Product Rule."
+description: "A connected bilingual learning note about Product Rule."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Product Rule
 

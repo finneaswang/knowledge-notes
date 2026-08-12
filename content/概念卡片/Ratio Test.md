@@ -1,8 +1,8 @@
 ---
 title: "Ratio Test"
-description: "A connected bilingual calculus note about Ratio Test."
+description: "A connected bilingual learning note about Ratio Test."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Ratio Test
 

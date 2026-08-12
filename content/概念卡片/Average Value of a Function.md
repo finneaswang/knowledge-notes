@@ -1,8 +1,8 @@
 ---
 title: "Average Value of a Function"
-description: "A connected bilingual calculus note about Average Value of a Function."
+description: "A connected bilingual learning note about Average Value of a Function."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Average Value of a Function
 
@@ -43,10 +43,10 @@ Average height of $f$ equals secant slope of an antiderivative $F$.
 ## Connected Notes / 连接
 
 - [[09 - What Does Area Have to Do With Slope]]
-- Integrals
+- [[Integrals]]
 - [[Riemann Sum]]
 - [[Signed Area]]
 - [[Antiderivative]]
 - [[Fundamental Theorem of Calculus]]
-- Average Rate of Change
+- [[Average Rate of Change]]
 - [[微积分BC第11次正课-积分应用与截面体积#Part B - Average Value|微积分BC第11次正课 · Average Value]]

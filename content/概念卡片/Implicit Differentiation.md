@@ -1,8 +1,8 @@
 ---
 title: "Implicit Differentiation"
-description: "A connected bilingual calculus note about Implicit Differentiation."
+description: "A connected bilingual learning note about Implicit Differentiation."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Implicit Differentiation
 

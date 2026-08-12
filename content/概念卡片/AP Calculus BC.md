@@ -1,8 +1,8 @@
 ---
 title: "AP Calculus BC"
-description: "A connected bilingual calculus note about AP Calculus BC."
+description: "A connected bilingual learning note about AP Calculus BC."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # AP Calculus BC
 
@@ -61,6 +61,9 @@ Course materials are complete: Orientation, lectures 1-14, and the useful Afterw
 
 ## Connected Notes / 连接
 
+- [[00 作业复盘索引]]
+- [[第1次作业复盘-Unit 2 导数基础]]
+- [[第2次作业复盘-Unit 3 复合隐函数与反函数]]
 - [[微积分BC Orientation-考试结构与课程地图]]
 - [[微积分BC第1次正课-极限与连续]]
 - [[微积分BC第2次正课-极限应用与导数入门]]

@@ -1,8 +1,8 @@
 ---
 title: "Improper Integral"
-description: "A connected bilingual calculus note about Improper Integral."
+description: "A connected bilingual learning note about Improper Integral."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Improper Integral
 
@@ -57,7 +57,7 @@ $$
 
 - [[Limits]]
 - [[Definite Integral]]
-- Integrals
+- [[Integrals]]
 - [[p-Series]]
 - [[Integral Test]]
 - [[微积分BC第9次正课-积分方法与反常积分]]

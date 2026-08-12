@@ -1,6 +1,6 @@
 {
-  "name": "calculus-notes",
-  "description": "A connected bilingual calculus knowledge site by Finneas Wang",
+  "name": "knowledge-notes",
+  "description": "A connected bilingual knowledge site built from a sanitized Obsidian vault",
   "private": true,
   "version": "5.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
   "homepage": "https://quartz.jzhao.xyz",
   "repository": {
     "type": "git",
-    "url": "https://github.com/finneaswang/calculus-notes.git"
+    "url": "https://github.com/finneaswang/knowledge-notes.git"
   },
   "scripts": {
     "export:public": "node scripts/export-public.mjs",

@@ -1,8 +1,8 @@
 ---
 title: "L'Hôpital's Rule"
-description: "A connected bilingual calculus note about L'Hôpital's Rule."
+description: "A connected bilingual learning note about L'Hôpital's Rule."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # L'Hôpital's Rule
 

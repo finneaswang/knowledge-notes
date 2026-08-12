@@ -1,8 +1,8 @@
 ---
 title: "Parametric Equations"
-description: "A connected bilingual calculus note about Parametric Equations."
+description: "A connected bilingual learning note about Parametric Equations."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Parametric Equations
 

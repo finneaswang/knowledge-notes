@@ -1,8 +1,8 @@
 ---
 title: "Absolute Convergence"
-description: "A connected bilingual calculus note about Absolute Convergence."
+description: "A connected bilingual learning note about Absolute Convergence."
 publish: true
-tags: [calculus, concept-card]
+tags: [open-notes, concept-card]
 ---
 # Absolute Convergence
 

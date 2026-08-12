@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: 微积分脉络
-  pageTitleSuffix: " | Finneas Wang"
+  pageTitle: 知识脉络
+  pageTitleSuffix: " | Open Notes"
   enableSPA: true
   enablePopovers: true
   analytics: null
   locale: zh-CN
-  baseUrl: calculus.ykwang.org
+  baseUrl: notes.yikewang.org
   ignorePatterns:
     - private
     - templates
@@ -230,7 +230,6 @@ plugins:
     options:
       links:
         About: /关于本站
-        GitHub: https://github.com/finneaswang/calculus-notes
     layout:
       position: footer
       priority: 50

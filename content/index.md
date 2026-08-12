@@ -1,25 +1,28 @@
 ---
-title: 微积分脉络
-description: 从极限、导数与积分，到无穷级数的中英双语微积分知识网络。
+title: 知识脉络
+description: 数学、物理与大学写作相互连接的中英双语学习知识库。
 publish: true
-tags: [calculus, index]
+tags: [open-notes, index]
 ---
 
-# 微积分脉络
+# 知识脉络
 
-> **A connected path through calculus: intuition, formal structure, and problem-solving.**  
-> 从直觉出发，用正式语言把极限、导数、积分、微分方程与无穷级数连接成一条可以反复回看的知识脉络。
-
-这里不是逐字课堂记录，而是一套可阅读、可检索、可沿链接探索的双语微积分笔记。英文保留考试与教材中的核心表达，中文负责解释为什么以及各知识点如何连接。
+> **A connected knowledge base for learning, reviewing, and seeing how ideas transfer across subjects.**
+>
+> 这里把数学、物理、写作和视频中的直觉串成一张可以阅读、检索和沿链接探索的知识网络。
 
 ## Start Here / 从这里开始
 
-- [[微积分BC Orientation-考试结构与课程地图|课程地图]]：按 AP Calculus BC 的 14 节课程走完整条主线。
-- [[01 - The Essence of Calculus|视觉微积分]]：配合 3Blue1Brown 视频建立几何直觉。
-- [[概念地图]]：按 Limits → Derivatives → Integrals → Series 的脉络复习。
-- 使用左侧搜索寻找术语；使用右侧关系图与 Backlinks 查看知识如何相连。
+- [[UBC Knowledge Graph|知识总图]]：查看整个知识库的课程主线与跨学科连接。
+- [[UBC Concept Index|概念索引]]：按名称进入独立概念卡。
+- [[AP Calculus BC|微积分]]：从极限、导数、积分走到微分方程与级数。
+- [[AP Physics C|物理 C 电磁学]]：从电荷、电场和电势走到电路、磁场与电磁感应。
+- [[大学写作-课程主页|大学写作]]：从 thesis、argument 到 reader-centered writing。
+- 使用搜索、Backlinks 和关系图查看同一概念如何跨课程出现。
 
-## Course Spine / 课程主线
+## Course Notes / 课程笔记
+
+### Calculus / 微积分
 
 - [[微积分BC Orientation-考试结构与课程地图]]
 - [[微积分BC第1次正课-极限与连续]]
@@ -37,7 +40,31 @@ tags: [calculus, index]
 - [[微积分BC第13次正课-无穷级数判敛]]
 - [[微积分BC第14次正课-Ratio-Test与Taylor-Series]]
 
-## Visual Calculus / 视觉微积分
+### Physics / 物理
+
+- [[AP电磁学第1次正课-电荷库仑定律与电场]]
+- [[AP电磁学第2次正课-连续带电体电场与电通量]]
+- [[AP电磁学第3次正课-高斯定律与对称带电体]]
+- [[AP电磁学第4次正课-电势能与电势]]
+- [[AP电磁学第5次正课-电势差与电场电势关系]]
+- [[AP电磁学第6次正课-等势面与静电平衡]]
+- [[AP电磁学第7次正课-电容器与电容储能]]
+- [[AP电磁学第8次正课-介电质电流与电阻]]
+- [[AP电磁学第9次正课-电功率电表与基尔霍夫定律]]
+- [[AP电磁学第10次正课-等效电容与RC电路]]
+- [[AP电磁学第11次正课-磁场洛伦兹力与带电粒子运动]]
+- [[AP电磁学第12次正课-载流导线力与安培定律]]
+- [[AP电磁学第13次正课-动生电动势磁通量与法拉第定律]]
+- [[AP电磁学第14次正课-楞次定律感生电场与RL电路]]
+
+### University Writing / 大学写作
+
+- [[大学写作-课程主页]]
+- [[大学写作第1课-从Thesis到Introduction]]
+
+## Video Companions / 视频伴读
+
+### 3Blue1Brown: The Essence of Calculus
 
 - [[01 - The Essence of Calculus]]
 - [[02 - The Paradox of the Derivative]]
@@ -52,6 +79,17 @@ tags: [calculus, index]
 - [[11 - Taylor Series]]
 - [[12 - The Other Way to Visualize Derivatives]]
 
+### 3Blue1Brown: Differential Equations
+
+- [[01 - Differential Equations, a Tourist's Guide]]
+- [[02 - But What Is a Partial Differential Equation]]
+
+## Practice Reviews / 练习复盘
+
+- [[00 作业复盘索引]]
+- [[第1次作业复盘-Unit 2 导数基础]]
+- [[第2次作业复盘-Unit 3 复合隐函数与反函数]]
+
 ## About / 关于
 
-笔记由 Finneas Wang 整理。范围、来源说明与勘误方式见 [[关于本站]]。
+公开版由某某整理。范围、脱敏原则与来源说明见 [[关于本站]]。
