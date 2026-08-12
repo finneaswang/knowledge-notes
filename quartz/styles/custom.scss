@@ -1,7 +1,7 @@
 @use "./variables.scss" as *;
 
 :root {
-  --site-accent-warm: #b8423b;
+  --site-accent-warm: #c15f3c;
 }
 
 body {
@@ -10,6 +10,15 @@ body {
 
 .page-title a {
   font-weight: 750;
+}
+
+.page-title a,
+.article-title {
+  color: var(--dark);
+}
+
+a.internal {
+  background-color: color-mix(in srgb, var(--secondary) 9%, transparent);
 }
 
 .center article {
@@ -21,8 +30,8 @@ body {
 }
 
 blockquote {
-  border-left-color: var(--secondary);
-  background: color-mix(in srgb, var(--lightgray) 35%, transparent);
+  border-left-color: var(--tertiary);
+  background: color-mix(in srgb, var(--lightgray) 42%, transparent);
   padding: 0.75rem 1rem;
 }
 
