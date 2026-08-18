@@ -10,14 +10,32 @@ Editorial note: this vault should be maintained as a connected Obsidian knowledg
 
 ## Main Branches / 主枝
 
+### Academic Essentials - Reading and Writing at University
+
+- [[AE26 Reading and Writing at University-课程主页]]
+  - Course status: official UBC non-credit preparatory course, separate from the unofficial summer writing course below
+  - Course status: complete on 2026-08-14; all six modules, the Capstone submission, completion page, and certificate are finished
+  - Module branch: [[AE26 Module 1-Welcome to the University]] -> [[AE26 Module 2-Listening Actively and Reading Critically]] -> [[AE26 Module 3-Information Literacy]] -> [[AE26 Module 4-Writing in the University]] -> [[AE26 Module 5-Speaking in the University]] -> [[AE26 Module 6-Capstone Project]]
+  - Participation branch: university research community -> junior scholar -> [[Scholarly Situation]] -> [[Academic Conversation]]
+  - Learning branch: [[Active Note-Taking]] -> [[Critical Reading]] -> [[Information Literacy]]
+  - Research branch: question -> [[Search Strategy]] -> [[Source Evaluation]] -> [[Academic Citation]] -> traceable contribution
+  - Writing-process branch: situation -> collect -> organize -> draft -> revise with [[Reverse Outline]] -> edit -> proofread
+  - Discipline branch: [[IMRaD Structure]] for many STEM reports; flexible evidence-led argument structures for humanities
+  - Writing bridge: [[Academic Writing]] -> situation-appropriate contribution -> [[Reader-Centered Writing]]
+  - Speaking branch: situation -> [[Academic Speaking]] -> [[Office Hours]] / discussion / presentation -> active listening -> [[Psychological Safety]]
+  - Capstone branch: assignment analysis -> preliminary search -> scholarly source -> [[Acceptable Paraphrase]] + [[Academic Citation]] -> [[Source Integration]] -> [[Writing Process]] -> contribution
+  - Inquiry theme: technologies of everyday life -> discipline-specific questions -> evidence-based contribution
+
 ### Summer Preparatory Courses - University Writing
 
 - [[大学写作-课程主页]]
   - Course status: unofficial summer preparatory course, separate from UBC official course requirements
-  - Lecture branch: [[大学写作第1课-从Thesis到Introduction]]
+  - Lecture branch: [[大学写作第1课-从Thesis到Introduction]] -> [[大学写作第 2 课 - 段落连贯、引用整合与改述]] -> [[大学写作第 3 课 - Citation Styles 与段落类型]]
   - Core branch: [[Academic Writing]] -> [[Thesis Statement]] -> [[Reader-Centered Writing]]
   - Inquiry branch: topic -> research questions -> nuanced thesis -> complication / counterargument
   - Introduction branch: hook -> link -> thesis -> organizational statement
+  - Paragraph branch: orient readers -> [[Paragraph Coherence]] -> [[Paragraph Development]] -> [[Signposting]] -> [[Claim Evidence Warrant]]
+  - Source-use branch: context -> [[Quote Integration]] / [[Acceptable Paraphrase]] -> [[Academic Citation]] -> [[Citation Styles]] -> interpretation and authorial contribution
   - Engineering bridge: transferable argument and clarity skills prepare for later lab reports, design proposals, feasibility reports, and technical memos
 
 ### AP Calculus BC
@@ -31,7 +49,8 @@ Editorial note: this vault should be maintained as a connected Obsidian knowledg
   - Evidence loop: independent work -> error code -> targeted hint -> delayed rework -> mastery check
   - Baseline: [[第1次作业复盘-Unit 2 导数基础]] -> derivative-language and graph-recognition gaps
   - Progress: [[第2次作业复盘-Unit 3 复合隐函数与反函数]] -> rule stacking, inverse location, implicit structure, second derivative, and theorem triggers
-  - Core bridges: [[Chain Rule]] / [[Product Rule]] / [[Implicit Differentiation]] / [[Inverse Function Derivatives]] / [[Mean Value Theorem]]
+  - Context transfer: [[第3次作业复盘-Unit 4 导数的情境应用]] -> motion language, related-rates modeling, linear approximation, L'Hôpital, and rate-of-rate meaning
+  - Core bridges: [[Chain Rule]] / [[Product Rule]] / [[Implicit Differentiation]] / [[Inverse Function Derivatives]] / [[Mean Value Theorem]] / [[One-Dimensional Motion]] / [[Related Rates]] / [[Linear Approximation]] / [[L'Hôpital's Rule]]
 
 - [[微积分BC第1次正课-极限与连续]]
   - Meaning branch: nearby behavior -> [[Limits]] -> left/right agreement -> finite two-sided limit
@@ -81,6 +100,134 @@ Editorial note: this vault should be maintained as a connected Obsidian knowledg
   - Core branch: [[Ratio Test]] -> [[Absolute Convergence]] / [[Conditional Convergence]] -> [[Alternating Series Error Bound]]
   - Taylor branch: [[Taylor Series]] -> [[Maclaurin Series]] -> [[Lagrange Error Bound]] -> [[Interval of Convergence]] / [[Radius of Convergence]]
   - Bridge back: [[微积分BC第13次正课-无穷级数判敛]] supplies the earlier convergence tests
+
+### AP Physics C - Mechanics
+
+- [[AP Physics C Mechanics]]
+  - Subject status: course complete on 2026-08-13; Orientation, prerequisite, lectures 1-14, review, and useful Afterwords guidance are integrated
+  - Long-term route: subject map -> concept card -> lecture derivation -> mixed problem -> error-directed return
+  - Parent branch: [[AP Physics C]]; sibling branch: [[Electricity and Magnetism]]
+
+- [[AP物理C力学-课程主页]]
+  - Course spine: calculus tools -> kinematics -> force and translational dynamics -> energy -> momentum -> rotation -> oscillations
+  - Motion chain: [[Position and Displacement]] -> [[Velocity and Speed]] -> [[Acceleration]]
+  - Graph chain: slope differentiates, signed area integrates -> [[Kinematics Graphs]]
+  - Model chain: [[Constant-Acceleration Motion]] -> [[Free Fall]] -> [[Projectile Motion]]
+  - Frame chain: [[Vectors]] -> [[Relative Motion]] -> [[Inertial Reference Frames]]
+  - Dynamics entry: [[Common Forces]] -> [[Free-Body Diagrams]] -> [[Newton's Second Law]]
+  - Sibling branch: AP Physics C Electricity and Magnetism below reuses vectors, calculus, kinematics, force, and energy
+
+- [[AP物理C力学Orientation-课程结构与学习地图]]
+  - Seven-unit map: kinematics -> force and translational dynamics -> work-energy-power -> momentum -> rotation -> oscillations
+  - Method branch: words <-> diagrams <-> graphs <-> equations
+  - Math bridge: [[Derivatives]] read local change; [[Integrals]] accumulate change
+  - Next note: [[AP物理C力学预备课-微积分工具]]
+
+- [[AP物理C力学预备课-微积分工具]]
+  - Local-change branch: [[Average Rate of Change]] / [[Secant Line]] -> [[Tangent Line]] / [[Derivatives]]
+  - Motion branch: position -> derivative -> velocity -> derivative -> [[Acceleration]]
+  - Accumulation branch: [[Riemann Sum]] -> [[Definite Integral]] / [[Signed Area]] -> displacement or velocity change
+  - Reconstruction branch: [[Antiderivative]] + [[Initial Conditions]] -> physical motion
+  - Visual bridge: [[02 - The Paradox of the Derivative]] / [[08 - Integration and the Fundamental Theorem of Calculus]]
+
+- [[AP物理C力学第1次正课-位移速度加速度与运动图像]]
+  - Vector branch: [[Vectors]] -> position difference -> [[Position and Displacement]]
+  - Rate branch: [[Velocity and Speed]] -> [[Acceleration]]
+  - Graph branch: [[Kinematics Graphs]] -> slope / signed area dictionary
+  - Standard-model branch: [[Constant-Acceleration Motion]] -> [[Free Fall]]
+  - Next lecture: [[AP物理C力学第2次正课-抛体相对运动与力的开端]]
+
+- [[AP物理C力学第2次正课-抛体相对运动与力的开端]]
+  - Component branch: [[Vectors]] + one shared time -> [[Projectile Motion]]
+  - Symmetry branch: vertical launch -> top-point condition -> same-height motion
+  - Frame branch: [[Relative Motion]] -> boat-river vectors -> [[Inertial Reference Frames]]
+  - Dynamics entry: interaction -> [[Common Forces]] -> [[Free-Body Diagrams]]
+  - Electricity bridge: projectile component method -> [[Uniform Electric Field]]
+
+- [[AP物理C力学第3次正课-牛顿定律摩擦弹簧与系统法]]
+  - Modeling branch: object choice -> [[Free-Body Diagrams]] -> [[Newton's Laws]] -> [[Newton's Second Law]]
+  - Contact branch: normal force -> [[Friction]] -> static threshold / kinetic model
+  - Elastic branch: deformation -> [[Hooke's Law]] -> restoring force
+  - System branch: [[System Boundary]] -> whole-system acceleration -> isolate a part for internal force
+  - Next lecture: [[AP物理C力学第4次正课-连接体阻力与圆周运动入门]]
+
+- [[AP物理C力学第4次正课-连接体阻力与圆周运动入门]]
+  - Constraint branch: ideal string/pulley -> linked accelerations -> system and isolation equations
+  - Drag branch: [[Newton's Second Law]] -> [[Differential Equations]] -> [[Resistive Force and Terminal Velocity]]
+  - Circular branch: changing velocity direction -> radial acceleration -> [[Circular Motion]]
+  - Next lecture: [[AP物理C力学第5次正课-圆周运动万有引力与质心]]
+
+- [[AP物理C力学第5次正课-圆周运动万有引力与质心]]
+  - Radial branch: [[Circular Motion]] -> flat/banked turns -> vertical circle and contact condition
+  - Gravity branch: [[Universal Gravitation]] -> shell theorem -> inside/outside field
+  - System branch: discrete/continuous mass distribution -> [[Center of Mass]]
+  - Energy handoff: force over displacement -> [[Work]]
+  - Next lecture: [[AP物理C力学第6次正课-功功率势能与机械能守恒]]
+
+- [[AP物理C力学第6次正课-功功率势能与机械能守恒]]
+  - Accumulation branch: force along displacement -> [[Work]] -> [[Work-Energy Theorem]]
+  - Rate branch: work per time -> [[Power]]
+  - Storage branch: [[Conservative Forces and Potential Energy]] -> gravitational / elastic potential energy
+  - Conservation branch: [[System Boundary]] -> [[Mechanical Energy Conservation]]
+  - Graph branch: $F_x=-dU/dx$ and $K=E-U$ -> [[Potential Energy Curves]]
+  - Next lecture: [[AP物理C力学第7次正课-能量综合势能曲线与动量入门]]
+
+- [[AP物理C力学第7次正课-能量综合势能曲线与动量入门]]
+  - Energy branch: path-independent state comparison -> ramps / friction / loop-the-loop
+  - Mixed-method branch: energy determines speed; [[Circular Motion]] determines contact
+  - Graph branch: total-energy line -> turning points / force / stability -> [[Potential Energy Curves]]
+  - Momentum entry: velocity with direction -> [[Linear Momentum]] -> $d\vec p/dt=\sum\vec F_{ext}$
+
+- [[AP物理C力学第8次正课-冲量动量守恒与碰撞]]
+  - Accumulation branch: force over time -> [[Impulse]] -> change in [[Linear Momentum]]
+  - System branch: negligible external impulse -> [[Conservation of Linear Momentum]]
+  - Interaction branch: stick / separate / glancing -> [[Collisions]]
+  - Center branch: system momentum divided by total mass -> [[Center of Mass]] motion
+  - Next lecture: [[AP物理C力学第9次正课-转动运动学力矩与转动惯量]]
+
+- [[AP物理C力学第9次正课-转动运动学力矩与转动惯量]]
+  - Translation-to-rotation branch: $x,v,a$ -> $\theta,\omega,\alpha$ -> [[Rotational Kinematics]]
+  - Cause branch: force -> [[Torque]] -> [[Rotational Equilibrium]]
+  - Distribution branch: mass relative to axis -> [[Rotational Inertia]] -> [[Parallel-Axis Theorem]]
+  - Next lecture: [[AP物理C力学第10次正课-转动能量角动量与守恒]]
+
+- [[AP物理C力学第10次正课-转动能量角动量与守恒]]
+  - Dynamics branch: $\sum\tau=I\alpha=dL/dt$
+  - Energy branch: torque over angle -> [[Rotational Energy]]
+  - Momentum branch: [[Angular Momentum]] -> angular impulse -> [[Conservation of Angular Momentum]]
+  - System branch: disk / person / clay interactions redistribute angular momentum internally
+  - Next lecture: [[AP物理C力学第11次正课-滚动天体运动与简谐振动开端]]
+
+- [[AP物理C力学第11次正课-滚动天体运动与简谐振动开端]]
+  - Coupled-motion branch: translation + rotation + contact constraint -> [[Rolling Motion]]
+  - Orbit branch: [[Universal Gravitation]] + energy + angular momentum -> [[Orbital Motion]]
+  - Planetary branch: [[Kepler's Laws]] / [[Escape Speed]]
+  - Final-unit entry: restoring force -> [[Simple Harmonic Motion]]
+
+- [[AP物理C力学第12次正课-简谐振动弹簧摆与共振]]
+  - Defining branch: restoring law -> $a=-\omega^2x$ -> [[Simple Harmonic Motion]]
+  - Representation branch: $x(t)$ -> derivative -> $v(t)$ -> derivative -> $a(t)$ -> [[Oscillation Graphs]]
+  - Model branch: spring oscillator -> [[Pendulums]] -> rotational restoring law
+  - Driven branch: natural frequency + driving frequency -> [[Resonance]]
+  - Next lecture: [[AP物理C力学第13次正课-FRQ实验线性化与作图规范]]
+
+- [[AP物理C力学第13次正课-FRQ实验线性化与作图规范]]
+  - Model-to-data branch: physical equation -> transformed variables -> [[Experimental Linearization]]
+  - Graph branch: labels / units / scale / residual balance -> [[Best-Fit Line]]
+  - Parameter branch: measured slope -> theoretical slope -> requested quantity
+  - Communication branch: procedure / repeat / uncertainty direction -> [[FRQ Scientific Reasoning]]
+  - Next lecture: [[AP物理C力学第14次正课-FRQ综合推导实验与表达策略]]
+
+- [[AP物理C力学第14次正课-FRQ综合推导实验与表达策略]]
+  - Derivation branch: system -> law -> symbolic substitution -> units and limiting checks
+  - Representation branch: words <-> diagrams <-> graphs <-> equations
+  - Reasoning branch: claim -> principle -> evidence/equation -> conclusion -> [[FRQ Scientific Reasoning]]
+  - Course review: [[AP物理C力学串讲课-全课程模型与方法总复盘]]
+
+- [[AP物理C力学串讲课-全课程模型与方法总复盘]]
+  - Complete course route: kinematics -> dynamics -> energy -> momentum -> rotation -> gravitation -> oscillations
+  - Selection branch: requested quantity + system boundary + interval -> choose the governing law
+  - Closure branch: concept card -> lecture derivation -> mixed problem -> error-directed return
 
 ### AP Physics C - Electricity and Magnetism
 
@@ -364,6 +511,9 @@ Editorial note: this vault should be maintained as a connected Obsidian knowledg
 - [[Maclaurin Series]] is the centered-at-zero version of Taylor series and supplies standard expansions.
 - [[Taylor Series]] connects derivatives, power series, and function approximation.
 - [[Ratio Test]] completes the AP Calculus BC convergence-test toolkit and drives interval-of-convergence problems.
+- [[Active Note-Taking]] turns listening and reading into selective, reorganized material for later retrieval and use.
+- [[Academic Research Article]] gives scholarly investigations a recognizable structure while allowing disciplinary variation.
+- [[Critical Reading]] connects purpose-driven reading, annotation, gist notes, and participation in [[Academic Conversation]].
 
 ## Concept Cards / 知识卡片
 
@@ -375,6 +525,9 @@ Editorial note: this vault should be maintained as a connected Obsidian knowledg
 
 - [[大学写作-课程主页]]
 - [[大学写作第1课-从Thesis到Introduction]]
+- [[AE26 Reading and Writing at University-课程主页]]
+- [[AE26 Module 1-Welcome to the University]]
+- [[AE26 Module 2-Listening Actively and Reading Critically]]
 - [[微积分BC Orientation-考试结构与课程地图]]
 - [[微积分BC第1次正课-极限与连续]]
 - [[微积分BC第2次正课-极限应用与导数入门]]

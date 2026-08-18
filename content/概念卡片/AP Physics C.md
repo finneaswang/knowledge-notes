@@ -14,7 +14,7 @@ AP Physics C is the calculus-based AP physics sequence.
 
 ## Formula / 公式或规则
 
-Course hub card.
+Course-family hub card connecting the completed Mechanics branch with the ongoing Electricity and Magnetism branch.
 
 ## When To Use / 什么时候用
 
@@ -32,6 +32,8 @@ No source-note mentions found yet. This card is ready for future links.
 
 ## Connected Notes / 连接
 
+- [[AP Physics C Mechanics]]
+- [[AP物理C力学-课程主页]]
 - [[Electricity and Magnetism]]
 - [[AP电磁学第1次正课-电荷库仑定律与电场]]
 - [[AP电磁学第2次正课-连续带电体电场与电通量]]

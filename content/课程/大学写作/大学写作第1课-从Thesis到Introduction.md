@@ -923,9 +923,12 @@ Organizational statement:
 
 这些是课堂预告，不代表下一课一定按此顺序展开；等下一份 transcript 到来后再确认。
 
+实际下一课：[[大学写作第 2 课 - 段落连贯、引用整合与改述]]。
+
 ## Connected Notes / 连接
 
 - [[大学写作-课程主页]]
+- [[大学写作第 2 课 - 段落连贯、引用整合与改述]]
 - [[Academic Writing]]
 - [[Thesis Statement]]
 - [[Reader-Centered Writing]]

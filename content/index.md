@@ -16,7 +16,9 @@ tags: [open-notes, index]
 - [[UBC Knowledge Graph|知识总图]]：查看整个知识库的课程主线与跨学科连接。
 - [[UBC Concept Index|概念索引]]：按名称进入独立概念卡。
 - [[AP Calculus BC|微积分]]：从极限、导数、积分走到微分方程与级数。
+- [[AP物理C力学-课程主页|物理 C 力学]]：从运动学和牛顿定律走到能量、动量、转动与振动。
 - [[AP Physics C|物理 C 电磁学]]：从电荷、电场和电势走到电路、磁场与电磁感应。
+- [[AE26 Reading and Writing at University-课程主页|Academic Essentials]]：从主动学习与信息素养走到学术写作、表达和来源整合。
 - [[大学写作-课程主页|大学写作]]：从 thesis、argument 到 reader-centered writing。
 - 使用搜索、Backlinks 和关系图查看同一概念如何跨课程出现。
 
@@ -40,7 +42,28 @@ tags: [open-notes, index]
 - [[微积分BC第13次正课-无穷级数判敛]]
 - [[微积分BC第14次正课-Ratio-Test与Taylor-Series]]
 
-### Physics / 物理
+### AP Physics C: Mechanics / 物理 C 力学
+
+- [[AP物理C力学-课程主页]]
+- [[AP物理C力学Orientation-课程结构与学习地图]]
+- [[AP物理C力学预备课-微积分工具]]
+- [[AP物理C力学第1次正课-位移速度加速度与运动图像]]
+- [[AP物理C力学第2次正课-抛体相对运动与力的开端]]
+- [[AP物理C力学第3次正课-牛顿定律摩擦弹簧与系统法]]
+- [[AP物理C力学第4次正课-连接体阻力与圆周运动入门]]
+- [[AP物理C力学第5次正课-圆周运动万有引力与质心]]
+- [[AP物理C力学第6次正课-功功率势能与机械能守恒]]
+- [[AP物理C力学第7次正课-能量综合势能曲线与动量入门]]
+- [[AP物理C力学第8次正课-冲量动量守恒与碰撞]]
+- [[AP物理C力学第9次正课-转动运动学力矩与转动惯量]]
+- [[AP物理C力学第10次正课-转动能量角动量与守恒]]
+- [[AP物理C力学第11次正课-滚动天体运动与简谐振动开端]]
+- [[AP物理C力学第12次正课-简谐振动弹簧摆与共振]]
+- [[AP物理C力学第13次正课-FRQ实验线性化与作图规范]]
+- [[AP物理C力学第14次正课-FRQ综合推导实验与表达策略]]
+- [[AP物理C力学串讲课-全课程模型与方法总复盘]]
+
+### AP Physics C: Electricity and Magnetism / 物理 C 电磁学
 
 - [[AP电磁学第1次正课-电荷库仑定律与电场]]
 - [[AP电磁学第2次正课-连续带电体电场与电通量]]
@@ -57,10 +80,22 @@ tags: [open-notes, index]
 - [[AP电磁学第13次正课-动生电动势磁通量与法拉第定律]]
 - [[AP电磁学第14次正课-楞次定律感生电场与RL电路]]
 
+### Academic Essentials / 学术基础
+
+- [[AE26 Reading and Writing at University-课程主页]]
+- [[AE26 Module 1-Welcome to the University]]
+- [[AE26 Module 2-Listening Actively and Reading Critically]]
+- [[AE26 Module 3-Information Literacy]]
+- [[AE26 Module 4-Writing in the University]]
+- [[AE26 Module 5-Speaking in the University]]
+- [[AE26 Module 6-Capstone Project]]
+
 ### University Writing / 大学写作
 
 - [[大学写作-课程主页]]
 - [[大学写作第1课-从Thesis到Introduction]]
+- [[大学写作第 2 课 - 段落连贯、引用整合与改述]]
+- [[大学写作第 3 课 - Citation Styles 与段落类型]]
 
 ## Video Companions / 视频伴读
 
@@ -89,6 +124,7 @@ tags: [open-notes, index]
 - [[00 作业复盘索引]]
 - [[第1次作业复盘-Unit 2 导数基础]]
 - [[第2次作业复盘-Unit 3 复合隐函数与反函数]]
+- [[第3次作业复盘-Unit 4 导数的情境应用]]
 
 ## About / 关于
 

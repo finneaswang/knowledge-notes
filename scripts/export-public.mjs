@@ -34,14 +34,19 @@ function stripPrivateMetadata(text) {
     /https?:\/\/(?:www\.)?chatgpt\.com\/share\/[^\s)\]}\>"']+/gi,
     "[private discussion removed]",
   )
+  body = body.replace(
+    /https?:\/\/canvas\.ubc\.ca\/[^\s)\]}\>"']+/gi,
+    "[course platform link removed]",
+  )
   body = body.replace(/`[^`\n]*\.(?:docx|srt|pdf)`/gi, "the course transcript")
   body = body.replace(/[^\s`"']+\.(?:docx|srt|pdf)/gi, "the course material")
   body = body.replace(/^## Context Check \/ 上下文校验$/gm, "## Reading Guide / 阅读说明")
   body = body.replace(/#Context Check \/ 上下文校验/g, "#Reading Guide / 阅读说明")
   body = body.replace(/Context Check \/ 上下文校验/g, "Reading Guide / 阅读说明")
   body = body.replace(/\bcontext check:/gi, "Editorial note:")
-  body = body.replace(/finneas[：:]?\s*/gi, "")
   body = body.replace(/Finneas Wang/gi, "某某")
+  body = body.replace(/\bYike(?:[_\s-]+Wang)?\b/gi, "某某")
+  body = body.replace(/finneas[：:]?\s*/gi, "")
   body = body.replace(/你明确说明/g, "课程内容表明")
   body = body.replace(/你(?:的)?(?:扫描)?作业/g, "这份练习")
   body = body.replace(/这份扫描作业的正式基线/g, "这份练习复盘的分析基线")
@@ -51,7 +56,8 @@ function stripPrivateMetadata(text) {
     .filter(
       (line) =>
         !/^\s*-?\s*(?:Source|source)\s*:/i.test(line) &&
-        !/(?:^|\s)(?:\/Users\/|obsidian:\/\/|chatgpt\.com\/share\/)/i.test(line),
+        !/(?:^|\s)(?:\/Users\/|obsidian:\/\/|chatgpt\.com\/share\/)/i.test(line) &&
+        !/(?:Capstone 已提交|完成证书已下载|明确显示课程完成)/i.test(line),
     )
     .join("\n")
   return body.trim() + "\n"
@@ -68,8 +74,21 @@ function destinationFor(file) {
   if (relative.startsWith(`Courses${path.sep}AP Calculus BC${path.sep}`)) {
     return path.join(contentRoot, "课程", "微积分", name)
   }
+  if (
+    relative.startsWith(
+      `Courses${path.sep}AP Physics C${path.sep}Electricity and Magnetism${path.sep}`,
+    )
+  ) {
+    return path.join(contentRoot, "课程", "物理", "电磁学", name)
+  }
+  if (relative.startsWith(`Courses${path.sep}AP Physics C${path.sep}Mechanics${path.sep}`)) {
+    return path.join(contentRoot, "课程", "物理", "力学", name)
+  }
   if (relative.startsWith(`Courses${path.sep}AP Physics C${path.sep}`)) {
     return path.join(contentRoot, "课程", "物理", name)
+  }
+  if (relative.startsWith(`Courses${path.sep}Academic Essentials${path.sep}`)) {
+    return path.join(contentRoot, "课程", "学术基础", name)
   }
   if (relative.startsWith(`Courses${path.sep}Summer Preparatory Courses${path.sep}`)) {
     return path.join(contentRoot, "课程", "大学写作", name)
@@ -88,7 +107,10 @@ function categoryFor(destination) {
   const relative = path.relative(contentRoot, destination)
   if (relative.startsWith(`课程${path.sep}微积分${path.sep}练习复盘`)) return "calculus-review"
   if (relative.startsWith(`课程${path.sep}微积分`)) return "calculus-course"
+  if (relative.startsWith(`课程${path.sep}物理${path.sep}力学`)) return "physics-mechanics"
+  if (relative.startsWith(`课程${path.sep}物理${path.sep}电磁学`)) return "physics-electromagnetism"
   if (relative.startsWith(`课程${path.sep}物理`)) return "physics-course"
+  if (relative.startsWith(`课程${path.sep}学术基础`)) return "academic-essentials"
   if (relative.startsWith(`课程${path.sep}大学写作`)) return "writing-course"
   if (relative.startsWith(`视频伴读${path.sep}3Blue1Brown-微积分`)) return "visual-calculus"
   if (relative.startsWith(`视频伴读${path.sep}3Blue1Brown-微分方程`))
@@ -149,15 +171,24 @@ const byCategory = (category) =>
     .filter((record) => record.category === category)
     .sort((a, b) => a.name.localeCompare(b.name))
 const lessonOrder = (record) => {
-  if (/Orientation|课程主页|^00 /.test(record.name)) return 0
-  return Number(record.name.match(/第(\d+)(?:次正课|课|次作业)/)?.[1] ?? 999)
+  if (/课程主页|^00 /.test(record.name)) return 0
+  if (/Orientation/.test(record.name)) return 1
+  if (/预备课/.test(record.name)) return 2
+  const moduleNumber = record.name.match(/Module (\d+)/)?.[1]
+  if (moduleNumber) return Number(moduleNumber) + 10
+  const lessonNumber = record.name.match(/第\s*(\d+)(?:次正课|课|次作业)/)?.[1]
+  if (lessonNumber) return Number(lessonNumber) + 10
+  if (/串讲课/.test(record.name)) return 90
+  return 999
 }
 const courseOrder = (a, b) => lessonOrder(a) - lessonOrder(b) || a.name.localeCompare(b.name)
 const links = (items) => items.map((item) => `- [[${item.name}]]`).join("\n")
 const calculus = byCategory("calculus-course").sort(courseOrder)
 const reviews = byCategory("calculus-review").sort(courseOrder)
-const physics = byCategory("physics-course").sort(courseOrder)
+const physicsMechanics = byCategory("physics-mechanics").sort(courseOrder)
+const physicsElectromagnetism = byCategory("physics-electromagnetism").sort(courseOrder)
 const writing = byCategory("writing-course").sort(courseOrder)
+const academicEssentials = byCategory("academic-essentials").sort(courseOrder)
 const visualCalculus = byCategory("visual-calculus")
 const visualDE = byCategory("visual-differential-equations")
 const concepts = byCategory("concept-card")
@@ -180,7 +211,9 @@ tags: [open-notes, index]
 - [[UBC Knowledge Graph|知识总图]]：查看整个知识库的课程主线与跨学科连接。
 - [[UBC Concept Index|概念索引]]：按名称进入独立概念卡。
 - [[AP Calculus BC|微积分]]：从极限、导数、积分走到微分方程与级数。
+- [[AP物理C力学-课程主页|物理 C 力学]]：从运动学和牛顿定律走到能量、动量、转动与振动。
 - [[AP Physics C|物理 C 电磁学]]：从电荷、电场和电势走到电路、磁场与电磁感应。
+- [[AE26 Reading and Writing at University-课程主页|Academic Essentials]]：从主动学习与信息素养走到学术写作、表达和来源整合。
 - [[大学写作-课程主页|大学写作]]：从 thesis、argument 到 reader-centered writing。
 - 使用搜索、Backlinks 和关系图查看同一概念如何跨课程出现。
 
@@ -190,9 +223,17 @@ tags: [open-notes, index]
 
 ${links(calculus)}
 
-### Physics / 物理
+### AP Physics C: Mechanics / 物理 C 力学
 
-${links(physics)}
+${links(physicsMechanics)}
+
+### AP Physics C: Electricity and Magnetism / 物理 C 电磁学
+
+${links(physicsElectromagnetism)}
+
+### Academic Essentials / 学术基础
+
+${links(academicEssentials)}
 
 ### University Writing / 大学写作
 
@@ -232,6 +273,8 @@ tags: [open-notes, index, knowledge-map]
 
 ## Calculus into Physics / 从微积分进入物理
 
+[[One-Dimensional Motion]] → [[Free-Body Diagrams]] → [[Newton's Second Law]] → [[Mechanical Energy Conservation]] → [[Linear Momentum]] → [[Rotational Kinematics]] → [[Simple Harmonic Motion]]
+
 [[Vectors]] → [[Electric Force]] → [[Electric Field]] → [[Electric Flux]] → [[Gauss's Law]]
 
 [[Derivatives]] + [[Integrals]] → [[Electric Potential]] → [[Electric Circuits]] → [[RC Circuits]]
@@ -239,6 +282,8 @@ tags: [open-notes, index, knowledge-map]
 [[Vector Field]] → [[Magnetic Fields]] → [[Lorentz Force]] → [[Faraday's Law]] → [[RL Circuits]]
 
 ## Reasoning and Communication / 推理与表达
+
+[[Information Literacy]] → [[Source Evaluation]] → [[Academic Citation]] → [[Source Integration]] → [[Academic Writing]]
 
 [[Academic Writing]] → [[Thesis Statement]] → [[Reader-Centered Writing]]
 
@@ -270,7 +315,7 @@ tags: [open-notes, about]
 
 ## Scope / 范围
 
-公开版覆盖当前知识库中的微积分、物理 C 电磁学、大学写作、3Blue1Brown 视频伴读、练习复盘与独立概念卡。练习复盘保留可复用的诊断方法，但移除来源路径和身份信息。
+公开版覆盖当前知识库中的微积分、物理 C 力学与电磁学、Academic Essentials、大学写作、3Blue1Brown 视频伴读、练习复盘与独立概念卡。练习复盘保留可复用的诊断方法，但移除来源路径和身份信息。
 
 ## Attribution / 来源说明
 
@@ -294,7 +339,9 @@ This repository contains an independently generated and sanitized public copy of
 - Source notes exported: ${records.length}/${sourceFiles.length}
 - Calculus course notes: ${counts.get("calculus-course") ?? 0}
 - Calculus practice reviews: ${counts.get("calculus-review") ?? 0}
-- Physics course notes: ${counts.get("physics-course") ?? 0}
+- Physics mechanics notes: ${counts.get("physics-mechanics") ?? 0}
+- Physics electricity and magnetism notes: ${counts.get("physics-electromagnetism") ?? 0}
+- Academic Essentials notes: ${counts.get("academic-essentials") ?? 0}
 - University writing notes: ${counts.get("writing-course") ?? 0}
 - Video companion notes: ${(counts.get("visual-calculus") ?? 0) + (counts.get("visual-differential-equations") ?? 0)}
 - Concept and root notes: ${(counts.get("concept-card") ?? 0) + (counts.get("knowledge-map") ?? 0)}

@@ -48,6 +48,11 @@ $$
 
 ## Connected Notes / 连接
 
+- [[AP物理C力学第1次正课-位移速度加速度与运动图像]]
+- [[AP物理C力学第2次正课-抛体相对运动与力的开端]]
+- [[Position and Displacement]]
+- [[Projectile Motion]]
+- [[Relative Motion]]
 - [[AP电磁学第1次正课-电荷库仑定律与电场]]
 - [[AP电磁学第2次正课-连续带电体电场与电通量]]
 - [[AP电磁学第11次正课-磁场洛伦兹力与带电粒子运动]]

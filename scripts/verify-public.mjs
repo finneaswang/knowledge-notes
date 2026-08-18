@@ -19,7 +19,12 @@ const forbidden = [
   ["Obsidian application URL", /obsidian:\/\//i],
   ["raw source filename", /\.(?:docx|srt|pdf)(?:\b|["')\]])/i],
   ["private share URL", /chatgpt\.com\/share\//i],
-  ["personal name or context marker", /finneas(?:\s+wang)?[：:]?|Context Check \/ 上下文校验/i],
+  [
+    "personal name or context marker",
+    /finneas(?:\s+wang)?[：:]?|\bYike(?:[_\s-]+Wang)?\b|Context Check \/ 上下文校验/i,
+  ],
+  ["private course platform URL", /canvas\.ubc\.ca/i],
+  ["personal course progress", /Capstone 已提交|完成证书已下载|明确显示课程完成/i],
   ["email address", /\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b/i],
   ["phone-like identifier", /(?<!\d)(?:\+?86[- ]?)?1[3-9]\d{9}(?!\d)/],
 ]

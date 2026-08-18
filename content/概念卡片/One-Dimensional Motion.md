@@ -42,11 +42,17 @@ $$
 
 ### Mentioned In / 出现位置
 
+- [[AP物理C力学第1次正课-位移速度加速度与运动图像#3. Position, Displacement, and Distance / 位置、位移与路程|AP物理C力学第1次正课 · 一维运动学]]
 - [[微积分BC第4次正课-反函数高阶导数与运动应用#17. Four Motion Quantities / 四个运动量|微积分BC第4次正课 · Four Motion Quantities]]
   - position, velocity, acceleration, and speed form one connected derivative system
 
 ## Connected Notes / 连接
 
+- [[AP物理C力学第1次正课-位移速度加速度与运动图像]]
+- [[Position and Displacement]]
+- [[Velocity and Speed]]
+- [[Kinematics Graphs]]
+- [[Constant-Acceleration Motion]]
 - [[微积分BC第4次正课-反函数高阶导数与运动应用]]
 - [[Derivatives]]
 - [[Instantaneous Rate of Change]]
